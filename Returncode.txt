@@ -1,0 +1,5 @@
+0, Normal
+1, Readdata Error
+2, Not Find Starting Date
+3, Not Find Ending Date
+4, Insufficient Data Sample
